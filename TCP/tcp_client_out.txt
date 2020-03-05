@@ -1,4 +1,4 @@
-python asyncore_client.py A 3 5
+python tcp_client.py A 3 5
 Sending Data: ping
 Received Data: pong
 Sending Data: ping
